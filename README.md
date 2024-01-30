@@ -10,3 +10,19 @@ Students are supposed to work together to produce a short report on the assigned
 The code and the results should be included in a jupyter notebook, properly commented (just like a laboratory report) so it can be understood without a person explaining it, and including the results (plots, tables, etc.).
 
 The notebook has to be committed with all the cells executed.
+
+___
+
+Files used : [center_sternum.txt](/data/center_sternum.txt) and [*insert file name*](/data/)
+
+## Part 1 : Data preparation
+made by Arthur Lecocq
+## Part 2 : Time and frequency analysis
+
+## Part 3 : Filter
+
+## Part 4 : Metrics
+
+## Part 5 : Optional
+
+## Part 6 : Conclusion
