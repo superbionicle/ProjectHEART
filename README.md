@@ -18,7 +18,8 @@ Files used : [center_sternum.txt](/data/center_sternum.txt) and [*insert file na
 ## Part 1 : Data preparation
 made by Arthur Lecocq
 ## Part 2 : Time and frequency analysis
-
+code made by Arthur Lecocq
+analysis made by
 ## Part 3 : Filter
 
 ## Part 4 : Metrics
